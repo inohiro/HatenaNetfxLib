@@ -1,0 +1,13 @@
+* Descriotion
+
+This is a .NET library for Hatena web services.
+
+* Support Service (include future implementation)
+
+- Diary
+- Fotolife
+- Authorization
+-- Authorization.OpenID
+- Bookmark
+- Keyword
+- Haiku
